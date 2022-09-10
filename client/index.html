@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Back End Assessment</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body class="container">
+    <button id="complimentButton">Get a compliment</button>
+    <button id="fortuneButton">Get a fortune</button>
+    
+    
+    <header>
+      <h1>Inspirational Books</h1>
+    </header>
+    <main>
+      
+      <form>
+        <p>Add Books</p>
+        <input 
+        type='text'
+        id="album"
+        placeholder="What's the book title?"/>
+        <input 
+        type='text'
+        id="price"
+        placeholder='What is the price?'/>
+        <input 
+        type='text'
+        id="img"
+        placeholder='Paste book cover.'/>
+        <button>add</button>
+      </form>
+      
+      <section id="albums-container"></section>
+      
+      <h5>Keep your head up you're doing great!</h3>
+    </main>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+    
+  </body>
+</html>

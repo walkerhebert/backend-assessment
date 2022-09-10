@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "album": "TPOYSM",
+      "price": 19.99,
+      "imageURL" : "https://qph.fs.quoracdn.net/main-qimg-81f3332431e84738f17d3d6d922dd4b7"
+    },
+    {
+      "id": 2,
+      "album": "Why you're the best",
+      "price": 14.99,
+      "imageURL" : "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781507214299/self-love-9781507214299_xlg.jpg"
+    },
+    {
+      "id": 3,
+      "album": "Set your goals",
+      "price": 29.99,
+      "imageURL" : "https://i.pinimg.com/originals/44/ba/bf/44babffbbad193e0d0506ec75b08c6bf.jpg"
+    }
+  ]
